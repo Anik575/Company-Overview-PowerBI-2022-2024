@@ -45,16 +45,3 @@ Created multiple report pages using various visuals:
 Report View
 ![Company_Overview](https://github.com/user-attachments/assets/6583c65d-9a28-4e2b-99c2-9b18b0f4d589)
 
-
-
-
----
-
-## 📜 License  
-This project is based on an Excel dataset.  
-- The **Power BI reports, DAX measures, and dashboards** are my original work.  
-- The dataset is used **only for analysis purposes**.  
-
-You may use or adapt my Power BI work under the **MIT License**.  
-
----
